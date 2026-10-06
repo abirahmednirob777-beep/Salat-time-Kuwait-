@@ -1,0 +1,6 @@
+{
+  "name": "Kuwait Salat",
+  "description": "Accurate Kuwait prayer times across all governorates, adhan alerts, Qibla compass, Hijri calendar, and daily Athkar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
